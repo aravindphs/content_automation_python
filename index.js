@@ -1,4 +1,4 @@
-const app = require('./src/app');
+const appDemo = require('./src/app');
 const sequelize = require('./src/config/database');
 
 require('./src/models/student.model');
